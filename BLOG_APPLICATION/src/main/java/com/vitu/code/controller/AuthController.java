@@ -1,3 +1,4 @@
+/**
 package com.vitu.code.controller;
 
 import java.security.Principal;
@@ -93,3 +94,4 @@ public class AuthController {
 	}
 
 }
+*/
