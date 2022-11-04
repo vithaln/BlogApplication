@@ -8,7 +8,10 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
 import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.ComponentScan;
+import org.springframework.context.annotation.Lazy;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.security.crypto.password.PasswordEncoder;
 
@@ -16,29 +19,38 @@ import com.vitu.code.configuration.AppConstants;
 import com.vitu.code.model.Role;
 import com.vitu.code.repository.RoleRepo;
 
-@SpringBootApplication
-public class BlogApplication implements CommandLineRunner {
+//@SpringBootApplication
+@SpringBootApplication(exclude = {DataSourceAutoConfiguration.class })
+@ComponentScan("com.vitu.code.repository")
+public class BlogApplication   {
 
 	@Autowired
+	@Lazy
 	private PasswordEncoder passwordEncoder;
-
+	
 	@Autowired
-	private RoleRepo roleRepo;
+@Lazy
+	//private RoleRepo roleRepo;
 	
 	public static void main(String[] args) {
 		SpringApplication.run(BlogApplication.class, args);
 	}
 	
 	@Bean
+	
 	public ModelMapper modelMapper() {
 		return new ModelMapper();
 	}
+	@Bean
+	public PasswordEncoder passwordEncoder() {
+		
+		return new BCryptPasswordEncoder();
+	}
 	
 	
-	  @Bean public PasswordEncoder getBean() { return new BCryptPasswordEncoder();
 	  
 	  
-	  }
+	 /** 
 
 	@Override
 	public void run(String... args) throws Exception {
@@ -70,5 +82,5 @@ public class BlogApplication implements CommandLineRunner {
 		}
 		
 	}
-	 
+*/	 
 }

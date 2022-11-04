@@ -1,4 +1,4 @@
-/**
+
 package com.vitu.code.security;
 
 import java.io.IOException;
@@ -17,6 +17,9 @@ import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.web.authentication.WebAuthenticationDetailsSource;
 import org.springframework.stereotype.Component;
 import org.springframework.web.filter.OncePerRequestFilter;
+
+import io.jsonwebtoken.ExpiredJwtException;
+import io.jsonwebtoken.MalformedJwtException;
 
 @Component
 public class JwtAuthenticationFilter extends OncePerRequestFilter {
@@ -56,9 +59,12 @@ public class JwtAuthenticationFilter extends OncePerRequestFilter {
 				username = this.jwtTokenHelper.getUsernameFromToken(token);
 			} catch (IllegalArgumentException e) {
 				System.out.println("Unable to get Jwt token");
-			} catch (Exception e) {
+			} catch (MalformedJwtException e) {
 				System.out.println("Jwt token invalid");
-			} 
+			}
+			catch(ExpiredJwtException e){
+				System.out.println("jwt token is expired");
+			}
 
 		} else {
 			System.out.println("Jwt token does not begin with Bearer");
@@ -93,4 +99,3 @@ public class JwtAuthenticationFilter extends OncePerRequestFilter {
 	}
 
 }
-*/

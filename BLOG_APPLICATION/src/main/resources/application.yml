@@ -1,0 +1,30 @@
+server:
+  port: '9292'
+
+spring:
+  jpa:
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.MySQL8Dialect
+        hbm2ddl:
+          auto: create
+    show-sql: 'true'
+    hibernate:
+      ddl-auto: update
+  servlet:
+    multipart:
+      max-file-size: 10MB
+      max-request-size: 10MB
+  datasource:
+    password: Vithal@7757
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: root
+    url: jdbc:mysql://localhost:3306/blog_app
+project:
+  image: images/
+logging:
+  level:
+    org:
+      springframework:
+        security: DEBUG
+

@@ -26,9 +26,9 @@ public class UserServiceImpl implements UserService {
 	@Autowired
 	private ModelMapper modelMapper;
 
-	@Autowired
-	private PasswordEncoder passwordEncoder;
-
+	/*
+	 * @Autowired private PasswordEncoder passwordEncoder;
+	 */
 	@Autowired
 	private RoleRepo roleRepo;
 
@@ -103,7 +103,7 @@ public class UserServiceImpl implements UserService {
 		User user = this.modelMapper.map(userDto, User.class);
 
 		// encoded the password
-		user.setPassword(this.passwordEncoder.encode(user.getPassword()));
+	//	user.setPassword(this.passwordEncoder.encode(user.getPassword()));
 
 		// roles
 		Role role = this.roleRepo.findById(AppConstants.NORMAL_USER).get();
