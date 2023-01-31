@@ -19,6 +19,7 @@ ManyToMany<br>
 #Security<br>
 JWT Token<br>
 Proper ROLES management.<br>
+Encoded password<br>
 
 
 #DB <br>
