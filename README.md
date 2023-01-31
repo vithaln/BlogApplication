@@ -31,3 +31,6 @@ by taking JWT Token they can create User/Category/posts/comments.<br>
 if they want to create posts they can create at particular category.<br>
 if User wants to upload Imag/file they need to give at particular userId.<br>
 suppose if we want to fetch posts by user.<br>
+if we want to see all posts at particular User.<br>
+I used ROLE Based Authentication some of API's.<br>
+any user want's to comment at any posts they need to be logged-in then will do comments like that used many more concepts etc..
