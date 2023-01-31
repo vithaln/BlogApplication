@@ -1,5 +1,5 @@
 # BlogApplication
-In this Project I developed all Backend-Development.
+In this Project I developed all Backend-Development.<br>
 Creating REST API'S by implementing DTO concepts.
 In this project has multiple modules like User,Category ,Posts and Comment.
 Implemented Spring Security Basic Authentication and JWT Token Authentication.
