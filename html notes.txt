@@ -1,0 +1,1983 @@
+<html>
+
+<head>
+<link rel="icon" href="v.jpg"type="image/gif"size="16x16">
+<title>"vikki@123"</title>
+<h style="background-color:blue;text-align:center1">
+</head>
+ 
+
+<body style="background-color:Red">
+
+<a href ="https://api.whatsapp.com/send?phone=9373579451">hey dude join whatasapp with vithal</a>
+
+
+
+
+
+</body
+
+
+
+
+
+<html>
+
+<head>
+<link rel="icon" href="v.jpg"type="image/gif"size="16x16">
+<title>"vikki@123"</title>
+
+</head>
+ 
+
+<body>
+<a href="tel:+9373579451">hey varsha  en madtidi, if you want call vithal just click here   <a/>
+<a href ="https://api.whatsapp.com/send?phone=9373579451">hey dude join whatasapp with vithal</a>
+
+<h1>hey good eveening</h1>
+<h2>this is vithal</h2>
+<h3>how are you ?</h3>
+<h4>what are u doing </h4>
+<h5>are u free now </h5>
+<h6>Thank u </h6>
+
+
+</body
+
+
+
+
+
+
+
+</html>
+
+
+</html>
+////////////////////////////////////////////////////////////////////////////////////
+<html>
+
+<head>
+
+
+<link rel="icon" href="v.jpg" type ="image/gif" size="16x16">hii good morning </>
+<title>hello everyone good morning</title>
+
+</head>
+  <!--<body style="background-color:yellow"> -->
+  
+<body style="background-color:yellow;text-align:center;color:red">
+
+<!-- <a href="http://www.google.com" >  google will open within  tab</a>  -->
+<!--
+<a href="http://www.google.com" target="_self" >  google will open within  tab</a>
+-->
+
+<!--
+<a href ="http://www.google.com" target="_target">google will open new window</>
+its by default open same tab
+-->
+
+   <!--<a href="tel:+9373579451">call me </a>  this for call-->
+
+
+<!--   <a href="mailto:vnnivargi1998@gmail.com">email me</>  this is for email-->
+
+<!--
+<a href="https://api.whatsapp.com/send? phone=9373579451">whatsapme </>
+-->
+
+<!--
+
+<h1 style="background-color:yellow;text-align:center;color:red"></h1>
+its not neccessary
+-->
+
+<!--anchor text or hyper text -->
+
+
+<!--
+<h1>my first web</h1>
+<h2>my first web</h2>
+<h3>my first web</h3>
+<h4>my first web</h4>
+<h5>my first web</h5>
+<h6>my first web</h6>
+
+
+
+
+-->
+</body>
+
+
+
+
+
+
+</html>
+
+///////////////////////////////////////////////////////////////////////////
+<html>
+<head> 
+<title>heloooo guys</title>
+</head>
+
+<body>
+
+
+<iframe src="k.html" width="400" height="400" frameborder="1000" ></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QLAKSrdFstc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Ffacebook&tabs=timeline&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="340" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d52783.25617547161!2d75.4565552392993!3d17.196728580419222!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc68e8edc47d335%3A0xa4556f832b000a6a!2sJath-Chadchan%20Rd!5e0!3m2!1sen!2sin!4v1632305923356!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
+
+
+</body>
+
+</html>
+/////////////////////////////////////////////////////////////////////////////////////////////
+<html>    
+<head>
+<title>my new page1</title>
+
+</head>
+
+<body>
+
+<h1>my first page new </h1>
+<h1>hey guys!!!!!!!</h1>
+<h1>this is vithal nivargi </h1>
+
+</body>
+
+
+
+
+
+
+
+
+
+
+
+</html>
+////////////////////////////////////////////////////////////////////////////////////////////////
+<html>
+<head>
+<title bgcolor="red">we are new learner</title>
+</head>
+<body>
+<!--
+
+<marquee direction="right" size="800"> I am very excited to learn new things </marquee>
+<marquee direction="up" loop="10" scrollamount="5" size="800"> I am very excited to learn new things </marquee>
+<marquee behavior="scroll"  direction="up" bgcolor="blue" width="300" height="300" loop="10" scrollamount="5" size="800"> I am very excited to learn new things </marquee>
+<marquee behavior="alternate"  direction="up" bgcolor="blue" width="300" height="300" loop="10" scrollamount="5" size="800"> I am very excited to learn new things </marquee>
+-->
+<marquee>
+<h1>hello</h1>
+<marquee behavior="alternate"   direction="down" bgcolor="blue" width="600" height="600" loop="10" scrollamount="5" size="800"> I am very excited to learn new things
+<img src="v.jpg" width="450" height="450">
+
+ </marquee>
+
+</marquee>
+</body>
+
+
+
+</html>
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+>>>>>>>>>>>>>>>>>>>>>>>>===============imp==============================>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<html> 
+<head>
+<link rel="icon" href="V1.jpg" type="image/gif" size="16x16">
+<title>www.vithal.com</title>
+
+
+</head >
+<body bgcolor="blue">
+<!--
+<body style="background-color:blue;color:red" >
+here backgroundcolor is blue and and in bodytext color is red 
+-->
+<!--
+<h1> hey good morning guys!!!!</h1>
+
+-->
+
+<!--
+<a href="http://www.google.com" target="target">hey click here</a>
+here google will open new tab because of ued target  -->
+
+<!--
+<a href="http://www.google.com">google</a>
+by default google will open same tab-->
+<!--
+<a href="http://www.google.com" target="_self">google1</a>
+ here using target _self so its open in same tab-->
+ 
+ <!--
+ <a  href="tel:+9373579451" > call me </a>
+here we can call direct on mobile -->
+<!--
+<a href="https://api.whatsapp.com/send?phone=9373579451" target="target"> whatsapp me</a>
+here whatasapp open new tab -->
+<!--
+<a href="http://www.google.com" style="background-color:white"> hello vithal clickhere I am waiting here </a>
+ here we can use background text -->
+ 
+ 
+ <!--
+ <a style= "text-align:center; color:red">hloo clik</>
+ here we willtake text backgroundcolour red -->
+ 
+ <!--
+ <a href="tel:+9373579451"style="color:red;background-color:blue">call vithal</a>
+ here text is red call vithal this and text background color is blue -->
+
+<!--
+<a href="mailto:vnnivargi1998@gmail.com">email me anytime</a>
+ here we can go to email -->
+ 
+ <!--
+ <iframe src="v1.html" frameborder="1000";width="400"height="400"  >hii</iframe
+ 
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/CFzit5mV-Fg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d28370.78554928222!2d75.44834367032504!3d17.176293451613905!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc6eb4a86ccd24f%3A0xb5bcc526338a1a13!2sSonyal%2C%20Maharashtra%20416413!5e0!3m2!1sen!2sin!4v1632365991248!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Ffacebook&tabs=timeline&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="340" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BE1by-hQDMA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
+ /// this is for all about iframe-->
+ 
+<!--
+<iframe src="v1.html" width="800" height="400"></iframea>
+/////////// this for marquee -->
+
+
+<!--
+<marquee direction="left" size="8000" style=background-color:blue >I am Exciting To Learn WEB DESIGHN</marquee>
+ this is rihght to left and with text background blue -->
+<h1 style="background-color:yellow;txt-align:center;color:red">
+<!--
+First time entering in my try on WEB DESIGN,
+I did not edited this everything was done by "code" HTML!
+-->SANGAMESH
+
+
+ </h1>
+
+
+<iframe src="v1.html"></iframe>
+<iframe src="v2.html"></iframe>
+<marquee loop="5" scrollamount="10" direction=right  size="800" behavior="alternate">hello guys!!!!!!!!!!!!
+
+BEING HAPPY!!
+<img src="v.jpg" width="600" height="500"></img>
+
+</marquee>
+
+</body>
+
+</html> 
+
+
+////////////////////////////////////////////////////////////////////////////////////////////
+<html>
+<head>
+<title>www.vijay.com</title>
+</head
+
+<body bgcolor="blue"> 
+<h1 ></h1>
+
+<marquee loop="5"  scrollamount="10" direction=left  behavior="alternate">hello guys!!!!!!!!!!!!
+
+BEING HAPPY!!
+<img src="v2.jpg" width="200" height="200"></img>
+
+</marquee>
+</body>
+
+
+
+</html>
+////////////////////////////////////////////////////////////////////////////////////////////////////
+''''''''''''''''''''''''''''''''''''''''''''''REGISTRATION FORM''''''''''''''''''''''''
+<html>
+<head>
+
+<title></title>
+
+
+</head>
+<body>
+<div style="text-align:center;background-color:yellow">
+<h1>REGISTRATION FORM</h1>
+<form method="post" action="form1.html">
+<br></br>
+<b>First name</b><input type= "text" name="fname"><br></br>
+<b>Middle name</b><input type="text" name="mname"><br></br>
+<b>Last name</b><input type="text" name="lname"><br></br>
+<b>Adress</b><input type="text" name="adname"><br></br>
+<b>Mobile No</b><input type="text" name="mname"><br></br>
+<b>Alterate mob no</b><input type="text" name="mname"><br></br>
+<b>pin code No</b><input type="text" name="mname"><br></br>
+<b>User name</b><input type="text" name="uname"><br></br>
+<b>Password </b><input type= "password" name="pname"><br></br>
+<b>Gender</b><input type= "radio" name="gen" value="m">Male
+	   <input type= "radio" name="gen" value="F">Female<br></br>
+
+
+<b>skills:</b>
+<input type="checkbox" name="skill"value="java">JAVA
+<input type="checkbox" name="skill" value="python">PYTHON
+<input type="checkbox" name="skill"value="c">C
+<input type="checkbox" name="skill"value="c++">C++
+<input type="checkbox" name="skill"value="mysql">MYSQL
+<input type="checkbox" name="skill"value="aws">AWS
+<input type="checkbox" name="skill"value="c#">C#
+<br></br>
+<b>City:</b>
+<select>
+<option>Select your city</option>
+<option>Pune</option>
+<option>Sangli</option>
+<option>Kolhapur</option>
+<option>Bangalore</option>
+<option>Manglore</option>
+<option>mumbai</option>
+<option>Kochi</option>
+<option>Vijapur</option>
+<option>Solapur</option>
+<option>Mangalweda</option>
+<option>Jath</option>
+<option>Sonyal</option>
+<option>Madagyal</option>
+<option>nigadi</option>
+<option>utagi</option>
+<option>kavata</option>
+<option>Satar</option>
+<option>karadha</option>
+<br></br>
+
+<input type="submit" value="sign-up"><br></br>
+
+<input type="reset" value="Cancel">
+
+</Select>
+
+
+
+
+
+
+
+</form>
+</div>
+</body>
+
+
+
+
+
+</html>
+/////////////////////////////////////////////////////////////////////////////////////////////////////////
+<html>
+<head>
+<title>www.vijay.com</title>
+</head
+
+<body> 
+<h1 ></h1>
+<marquee loop="5" width="250" height="450" scrollamount="10" direction=left size="800" behavior="alternate">hello guys!!!!!!!!!!!!
+
+BEING HAPPY!!
+<img src="v.jpg" width="200" height="200"></img>
+
+</marquee>
+</body>
+
+
+
+</html>
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+<html>
+<head>
+
+<title></title>
+
+
+</head>
+<body style="text-align:center;background-color:green">
+<h1>Success page</h1>
+<h3>You Successfully Registred </h3>
+<a href="form.html">Go to Register page</a>
+
+</body>
+
+
+
+
+
+</html>
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////<<<<<<<<<
+,<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<COMPANY FORM''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+<html>
+<head>
+<title>www.vikki.com</title>
+</head>
+<body style="text-align:center;background-color:yellow">
+<form method="post" action="c1.html">
+<h1>REGISTRATION FORM</h1>
+<br></br>
+<b>FIRST NAME</b><input type="text"name="fname"><br></br>
+<b>MIDDLE NAME</b><input type="text"name="mname"><br></br>
+<b>LAST NAME<b><input type="text"name="lname"><br></br>
+<b>USER NAME</b><input type="text"name="uname"><br></br>
+<b>PASSWORD</b><input type="password"name="pname"><br></br>
+<b>MOBILE NO</b><input type="text"name="Mname"><br></br>
+<b>ALTERNATE NO</b><input type="text"name="M1name"><br></br>
+<b>PIN CODE</b><input type="text"name="PAname"><br></br>
+<b>COUNTRY </b>
+<select>
+<option>SELECT YOUR COUNTRY</option>
+<option>INDIA</option>
+<option>CHINA</option>
+<option>USA</option>
+<option>JARMANI</option>
+<option>JAPHAN</option>
+<option>UK</option><br>
+
+</select>
+<br></br>
+<b>GENDER</b><input type="radio"name="gname"value="m">male
+	  <input type="radio"name="gname" value="f">female <br></br>
+<b>SKILLS:</b>
+		<input type="checkbox"name="java"value="java">JAVA
+		<input type="checkbox"name="python"value="python">PYTHON
+		<input type="checkbox"name="c"value="c">C
+		<input type="checkbox"name="c++" value="c++">C++
+		<input type="checkbox"name="mysql"value="mysql">MYSQL
+		<input type="checkbox"name="aws"value="aws">AWS
+<br></br>
+<b>CITY</b>
+<select>
+
+    <option>select your city</option>
+	<option>pune</option>
+	<option>mumbai</option>
+	<option>banglore</option>
+	<option>hydrabad</option>
+	<option>kochi</option>
+	<option>sangli</option>
+	<option>jath</option>
+	<option>karadha</option>
+	<option>latur</option>
+	<option>solapur</option>
+	<option>vijapur</option>
+	<option>kolhapur</option>
+</select>
+<br></br>
+<input type="submit" value="login">
+<input type="reset"value="cancel">
+
+
+
+
+
+</form>
+</body>
+
+
+
+
+
+
+
+
+
+</html>
+/////////////////////////////////////////////////////////////////////////
+<html>
+<head></head>
+<body style="text-align:center;background-color:green">
+<h1>WEL COME VITHAL</h1>
+<h2>Successfuly Registred you!!!</h2>
+<h3>Thank you for Registred us</h3>
+<a href="company_form.html"> go to back Register page</a>
+
+
+
+
+
+
+
+
+</body>
+
+
+
+</html>
+////////////////////////////////////////////////////////////////////////////////////////////
+<html>
+<head>
+<link rel="icon" href="v.jpg" type="image/gif"size="16x16"></link>
+<title>www.vikkigmail.com</title>
+</head>
+<body style="text-align:center;background-color:yellow">
+<h1>my first web page </h1>
+<!--
+<a href="http://www.google.com" target="_target">google</a>
+
+<a href="tel:+9373579451">call me</a>
+
+<a href="https://api.whatsapp.com send?phone:9373579451">whatsapp me</a>
+
+<a href="mailto:vnnivargi1998@gmail.com">mail me</a>
+
+<a style="color:green;background-color:red"> vithal</a>
+-->
+<marquee>
+<marquee scrollamount="5" behavior="alternate" direction="left" loop="2" bgcolor="blue" color="red"> hello guys!!!!!</marquee>
+
+</marquee>
+
+
+
+
+</body>
+
+</html>
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+<html>
+<head>
+<link rel="icon" href="v.jpg" type="image/gif"size="16x16"></link>
+<title>www.vikkigmail.com</title>
+</head>
+<!--
+<body background="v1.jpg" style="text-align:center">
+-->
+<body bgcolor="yellow">
+<h1>my first web page </h1>
+<!--
+<a href="http://www.google.com" target="_target">google</a>
+
+<a href="tel:+9373579451">call me</a>
+
+<a href="https://api.whatsapp.com send?phone:9373579451">whatsapp me</a>
+
+<a href="mailto:vnnivargi1998@gmail.com">mail me</a>
+
+<a style="color:green;background-color:red"> vithal</a>
+
+<marquee>
+<marquee scrollamount="5" behavior="alternate" direction="left" loop="2" bgcolor="blue" color="red"> hello guys!!!!!</marquee>
+
+</marquee>
+-->
+<!--
+<p>
+<i>hello</i>
+</p>
+
+<p>
+<u>hello</u>
+</p>
+
+<p>
+<s>hello</s>
+</p>
+
+
+<p>
+<del>hello</del>
+</p>
+
+<p>X<sub>3</sub></p>
+
+<p>X<sup>3</sub></p>
+
+<p><big>vithal</big> Nivargi</p>
+<p><small>vithal</small> Nivargi</p>
+<p><code>vithal Nivargi</code></p>
+
+-->
+
+<!-- <hr width=" " size="" align="" > tag is its empty tag its  no  closing horizontal line/separateparagraph
+<pre> as we have input prints in same output
+<blockquote></blockquote> its a take sub paragrapghpa of page
+
+
+
+&reg;&gt;&lt;&pound;&amp;&cent;&quot;&nbsp;   &apos; ALL ABOUT WEB PAGE DESIGN
+  -->
+<!--
+<img src="v546.jpg" width="800" height="600" border="5" alt="healthcare vithal" ><br>
+-->
+
+<!--
+<center>
+<img src="E:\kop trip\IMG_20190406_114900.jpg"width="800" height="600"border="5"title="vithal bhai"><br>
+</center> or 
+<img src="E:\kop trip\IMG_20190406_114900.jpg"width="800" height="600"border="5"title="vithal bhai" hspace="200" vspace="200"><br>
+
+ -->
+ 
+ 
+<!--
+
+<img src="E:\kop trip\IMG_20190406_115720.jpg"width="800" height="600" border="5"><br>
+<img src="E:\kop trip\IMG_20190406_161501.jpg"width="800" height="600" border="5" align="right"><br>
+
+-->
+<!--
+<img src="E:\kop trip\IMG_20190406_050327.jpg" width="200"height="190" align="left" title="VITHAL BHAI !">
+
+<p >
+<h1>
+<center>
+<b>WELCOME TO OUR STUDIO</b>
+
+</center>
+</h1>
+<br>
+
+&nbsp;The Name indicate “ CNC STAGECRAFTS” means we will craft you as per requirement of the stage either stage is for Acting, Dancing, singing or any other arts-related field so here we will prepare you to rock on the stage to connect the audience. We don’t want to make it commercial only our main focus on to work together on stage to show the world what are our capabilities.
+Our vision to make everyone who loves arts within you but not able to show to the world because of busy with professional or personal work or responsibility. Our focus on you guys to shake hand with us and start dreaming and move towards full your dream.
+Our vision to make everyone who loves arts within you but not able to show to the world because of busy with professional or personal work or responsibility. Our focus on you guys to shake hand with us and start dreaming and move towards full your dream.
+</p>
+
+<img src="E:\kop trip\IMG_20190406_113727.jpg" width="200"height="100" align="right" >
+<p>
+
+<b>Our vision</b>
+<i>
+Our vision to make everyone who loves arts within you but not able to show to the world because of busy with professional or personal work or responsibility. Our focus on you guys to shake hand with us and start dreaming and move towards full your dream.
+Our vision to make everyone who loves arts within you but not able to show to the world because of busy with professional or personal work or responsibility. Our focus on you guys to shake hand with us and start dreaming and move towards full your dream.
+Our vision to make everyone who loves arts within you but not able to show to the world because of busy with professional or personal work or responsibility. Our focus on you guys to shake hand with us and start dreaming and move towards full your dream.
+</p>
+</i>
+
+
+
+
+
+<img src="E:\kop trip\IMG_20190406_113714.jpg" width="200"height="100" align="left">
+<b>Our mission</b>
+<i>Why stage crafts in the picture because most of the people they want to make the career in Film Industry and they are not able to make it because of time, money or resource. Our mission to give flexibility to all DREAMERS to dream what you want? Come to us and we will full fill your dream together.
+Why stage crafts in the picture because most of the people they want to make the career in Film Industry and they are not able to make it because of time, money or resource. Our mission to give flexibility to all DREAMERS to dream what you want? Come to us and we will full fill your dream together.Why stage crafts in the picture because most of the people they want to make the career in Film Industry and they are not able to make it because of time, money or resource. Our mission to give flexibility to all DREAMERS to dream what you want? Come to us and we will full fill your dream together.
+
+</i>
+<br></br>
+<center>
+<img src="E:\kop trip\IMG_20190406_120045.jpg" width="200"height="100" >
+</center>
+<p>Do you love to take pictures (especially selfies) and travel? Then you are on the rightstage either stage is for Acting, Dancing, singing or any other arts-related field so here we will prepare you to rock on the stage to connect the audience. We don’t want to make it commercial only our main focus on to work together on stage to show the world what are our capabilities.stage either stage is for Acting, Dancing, singing or any other arts-related field so here we will prepare you to rock on the stage to connect the audience. We don’t want to make it commercial only our main focus on to work together on stage to show the world what are our capabilities.stage either stage is for Acting, Dancing, singing or any other arts-related field so here we will prepare you to rock on the stage to connect the audience. We don’t want to make it commercial only our main focus on to work together on stage to show the world what are our capabilities. platform! Come join the photography institute in pune called CNC Stage Crafts.</p>
+--> 
+
+ 
+<!-- MARQUEE ALL ABOUT  ANCHOR TEXT 
+<marquee behavior="scroll">
+<marquee direction="right" scrollamount="15"bgcolor="powderblue" width="400" height="400" behavior="scroll">WELCOME VITHAL
+<img src="E:\kop trip\IMG_20190406_120045.jpg" width="200"height="100" vspace="100" hspace="200" >
+</marquee>
+</marquee>
+
+-->
+<!-- its called absolute  LINK
+<a href="http://www.google.com" target="target" title="google">google</a>
+<a href="http://www.cncwebworld.com" >cncwebworld</a
+-->
+
+<!-- ITS CALLED relative LINK
+<a href="c1.html">hello</a>
+-->
+<!-- imagae link when we clk on imagaeits open google
+<a href="http://www.google.com" target="target" title="google"><img src="v.jpg"  height="400"></a>
+-->
+<!-- downoload any file=====
+<a href="A.pdf" target="target">open pdf </a>
+
+if we want change link color we chan change in body parts like
+<body link="blue"vlink="red" alink="orange">
+-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+
+</html>
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+;;;;;;;;;;;;;;;;;;;;;;;;;;;ALL ABOUT LIST;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+TYPES OF LIST IN HTML
+1:UNOREDERD: <ul> <li></li> </ul>
+2:ORDRED:  <ol> <li></li> </ol> 
+3:DEFINATION ORDERED <dl>  <dt></dt> this is for title and <dd></dd> this for defination   </dl>
+#nested list
+
+<html>
+<head></head>
+<body>
+<!-- unordered list its by default give disc
+<ul type="square">
+<li>home</li>
+<li>about</li>
+<li>course</li>
+<li>background</li>
+<li>my page</li>
+<li>Next</li>
+
+</ul>
+-->
+<!--
+its outputlike first list will print a b c d e f  and next will start g h ij k l m ..but we should use start as we below used
+<ol type="a">
+<li>home</li>
+<li>about</li>
+<li>course</li>
+<li>background</li>
+<li>my page</li>
+<li>Next</li>
+
+</ol>
+<p>
+Film directing is an art in itself, means an individual nplay written.  
+<ol start="7" type="a">
+<li>home</li>
+<li>about</li>
+<li>course</li>
+<li>background</li>
+<li>my page</li>
+<li>Next</li>
+
+</ol>
+-->
+
+
+<!-- its prints number reversedlike start with 6 5 4 3 2 1 and next list is also 9 5 4  3 2 1 
+
+
+its outputlike first list will print a b c d e f  and next will start g h ij k l m ..but we should use start as we below used
+// if we want to change inbetween value we can use in list tag like <li value="56"></li>
+
+
+
+<ol reversed>
+<li>home</li>
+<li>about</li>
+<li>course</li>
+<li>background</li>
+<li>my page</li>
+<li>Next</li>
+
+</ol>
+<p>
+Film directing is an art in itself, means an individual nplay written.  
+<ol  reversed start="6">
+<li>home</li>
+<li>about</li>
+<li>course</li>
+<li>background</li>
+<li>my page</li>
+<li>Next</li>
+
+</ol>
+-->
+
+
+
+<!-- DEFINATION list WE CAN USE THI LIKE BEOLOW EG:
+WEBSITE:
+		website is a collection of web pages
+
+
+<dl>
+	<b><dt>WEBSITE:</dt></b>
+	<i><dd>website is a collection of web pages</dd></i>
+
+
+</dl>
+-->
+<!--NESTED UNOREDRED LIST 
+
+<ul>
+	<li>WEB DESIGNING
+		<ul>
+				<li>HTML</li>
+				<li>CSS</li>
+				<li>JS</li>
+				<li>JAVASCRIPT</li>
+		
+		</ul>
+
+	</li>
+	<li>WEB DESIGNING
+		<ul>
+				<li>HTML</li>
+				<li>CSS</li>
+				<li>JS</li>
+				<li>JAVASCRIPT</li>
+		
+		</ul>
+
+	</li>
+
+</ul>
+output\\==
+WEB DESIGNING
+	HTML
+	CSS
+	JS
+	JAVASCRIPT
+WEB DESIGNING
+	HTML
+	CSS
+	JS
+	JAVASCRIPT
+
+-->
+
+
+
+<!--unoredred list NESTED /////////////////
+<ul>
+	<li>WEB DESIGNING
+		<ul>
+				<li>HTML
+						<ul>
+							<li>body<li/>
+							<li>head<li/>
+							<li>title<li/>
+							<li>marquee<li/>
+						</ul>
+				
+				
+				
+				</li>
+				
+				<li>CSS
+				
+				<ul>
+							<li>body<li/>
+							<li>head<li/>
+							<li>title<li/>
+							<li>marquee<li/>
+						</ul>
+				
+				</li>
+				<li>JS</li>
+				<li>JAVASCRIPT</li>
+		
+		</ul>
+		
+		
+		output===
+WEB DESIGNING
+	HTML	
+		body
+		head
+		title
+		marquee
+CSS
+		body
+		head
+		title
+		marquee
+JS
+JAVASCRIPT
+-->
+
+<!--
+<ol>
+	<li>WEB DESIGNING
+		<ol>
+			<li>html</li>
+			<li>css</li>
+			<li>js</li>
+			<li>javascrpit</li>
+		
+		</ol>
+	<li>
+
+
+</ol>
+-->
+
+<!-- ASSIGNMENT 
+<ul>
+	<li>FRUIT
+		<ul>
+			<li>BANNANS</li>
+			<li>APLLES
+				<ul>
+					<li>GREEN</li>
+					<li>RED</li>
+				</ul>
+			</li>
+			<li>PEARS</li>
+		</ul>
+	</li>
+	<li>VEGATABLES</li>
+	<li>MEAT</li>
+
+</ul>
+/////OUTPUT 
+
+FRUIT
+	BANNANS
+	APLLES
+		GREEN
+		RED
+	PEARS
+VEGATABLES
+MEAT
+
+-->
+
+<!-- ASSIGNMENT==========
+<ol>
+	<li>LINUX
+		<ol>
+			<li>ubuntu</li>
+			<li>kali linux</li>
+			<li>red hat</li>
+		</ol>
+	</li>
+	<li>WINDOWS
+		<ol>
+			<li>windows 7</li>
+			<li>windows 10</li>
+		</ol>
+	</li>
+	<li>MAC</li>
+	<li>ANDROID</li>
+</ol>
+
+output====
+
+1 LINUX
+	1 ubuntu
+	2 kali linux
+	3 red hat
+2 WINDOWS
+	1 windows 7
+	2 windows 10
+3 MAC
+4 ANDROID
+
+-->
+
+<!--
+<H3>LIST OF INDIAN STATES AND THIER CPITAL</H3>
+<OL>
+	<LI>DELHI
+		<UL>
+			<LI>NEWDEHLI</LI>
+		</UL>
+	</LI>
+	<LI>HARYANA
+		<UL>
+			<LI>CHANDIGRAH</LI>
+		</UL>
+	</LI>
+	<LI>GUJARAT
+		<UL>
+			<LI>GANDINAGAR</LI>
+		</UL>
+	</LI>
+	<LI>RAJSTAN
+		<UL>
+			<LI>JAIPUR</LI>
+		</UL>
+	</LI>
+	<LI>MAHARASHTRA
+		<UL>
+			<LI>MUMBAI</LI>
+		</UL>
+	</LI>
+	<LI>UTTARPRADESH
+			<UL>
+			<LI>LACKNOW</LI>
+		</UL>
+		</LI>
+	<LI>KARANATAK
+		<UL>
+			<LI>BANGLORE</LI>
+		</UL>
+	</LI>
+</OL>
+
+OUTPUT===
+LIST OF INDIAN STATES AND THIER CPITAL
+1 DELHI
+	NEWDEHLI
+2 HARYANA
+	CHANDIGRAH
+3 GUJARAT
+	GANDINAGAR
+4 RAJSTAN
+	JAIPUR
+5 MAHARASHTRA
+	MUMBAI
+6 UTTARPRADESH
+	LACKNOW
+7 KARANATAK
+	BANGLORE
+	
+	-->
+</body>
+</html>
+
+/////////////////////////////////////////////////////////
+REGISTRATION FORM
+
+<html>
+<head>
+<title>www.vithal@123.com</title>
+<link rel="icon" href="v1.jpg" type="image/gif" size="16*16"></link>
+</head>
+
+<body>
+<form method="" action="c1.html">
+
+<fieldset  >
+<legend ><b><h1>REGISTRATION FORM </h1></b></legend>
+	<!--<table border="" align="" bgcolor="" border="">  -->
+<table>
+		<tr>
+			<th align="left">FAST NAME</th>
+			<td><input type="TEXT" name="Fname"></td>
+			
+		</tr>
+		<tr>
+			<th align="left">MIDDLE NAME</th>
+			<td><input type="TEXT" name="Mname"></td>
+			
+		</tr>
+		<tr>
+			<th align="left">LAST NAME</th>
+			<td><input type="TEXT" name="Lname"></td>
+			
+		</tr>
+		
+		<tr>
+			<th align="left">EMAIL ID</th>
+			<td>
+				<input type="text" name="emai">
+			</td>
+		</tr>
+		<tr>
+			<th align="left">CONTACT NO</th>
+			<td>
+			<input type="TEXT" name="Cname" maxlength="10">
+			
+			</td>
+			
+		
+		</tr>
+		<tr>
+			<th align="left">USERNAME</th>
+			<td><input type="TEXT" name="Uname"></td>
+			
+		</tr>
+		<tr>
+			<th align="left">PASSWORD</th>
+			<td><input type="PASSWORD" name="Pname"></td>
+			
+		</tr>
+		<tr>
+			<th align="left">RE-TYTPE PASSWORD</th>
+			<td><input type="PASSWORD" name="Pname"></td>
+			
+		</tr>
+		
+		<tr>
+			<th align="left">GENDER</th>
+			<td>
+			<input type="RADIO" name="Pname">MALE
+			<input type="RADIO" name="Pname">FEMALE
+			</td>
+			
+		
+		</tr>
+		
+		
+
+		<tr>
+			<th align="left">PROGRAMMING SKILLS</th>
+			<td>
+			<input type="checkbox" name="cname">JAVA
+			<input type="checkbox" name="Pname">PYTHON
+			<input type="checkbox" name="Pname">C
+			<input type="checkbox" name="Pname">C++
+			<input type="checkbox" name="Pname">C#
+			<input type="checkbox" name="Pname">.NET
+			</td>
+			
+		</tr>
+		<tr>
+			<th align="left">DO YOU HAVE ANY GLOBAL CERTIFICATE</th>
+				<td>
+					<input type="radio"name="cname">YES
+					<input type="radio"name="cname">NO
+				</td>
+		</tr>
+		<tr>
+			<th align="left">CHOOSE YOUR GLOBAL CERTIFICATE </th>
+			<td>
+				<input type="file" name="cfile">
+			</td>
+		</tr>
+		<tr>
+			<th align="left">HOW MANY YEARS DO YOU HAVE EXPERIANCE</th>
+			<td>
+			<select>
+				
+				<option>selectyour experiance</option>
+				<option>0</option>
+				<option>1</option>
+				<option>2</option>
+				<option>3</option>
+				<option>4</option>
+				<option>5</option>
+				
+				
+			</select>
+			</td>
+		</tr>
+		<TR>
+			<th align="left">CITY</th>
+			<td>
+				<select align="">
+			<option>select your city </option>
+			<option>MUBAI </option>
+			<option>PUNE </option>
+			<option>BANGLORE </option>
+			<option>HYDRABAD </option>
+			<option>CHENNAI </option>
+			<option>KOCHI </option>
+			<option>TAMILNADU </option>
+			<option>SANGLI </option>
+			<option>SATAR </option>
+			<option>JATH </option>
+			<option>MANGALWEDA</option>
+			<option>SOLAPUR </option>
+			<option>PADARPUR</option>
+			<option>MOHAL </option>
+			<option>TERBUNI</option>
+			<option>KAVATE </option>
+			<option>MIRAJ </option>
+		</select>
+			</td>
+	
+		</tr>
+		<TR>
+			<th align="left">SELECT COLLEGE</th>
+			<td>
+				<select align="">
+			<option>select your college	</option>
+			<option>ATS SBGI MIRAJ </option>
+			<option>WALCHAND SANGLI </option>
+			<option>J.J.MUGDUM JAYSINGPUR </option>
+			<option>BHARATHI HOSPITAL SANGLI </option>
+			<option>VIT KARANATAK </option>
+			<option>M.V.HIGHSCHOOL AND JR.COLLEGE UMADI </option>
+			<option>S.V.V.HIGHSCHOOLAND JR COLLEGE SONYAL </option>
+		</select>
+			</td>
+	
+		</tr>
+		
+		<tr>
+			<th align="left">CHOOSE YOUR DEGREE</th>
+			<TD>
+			<select>
+				
+				<option>select your degree</option>
+				<option>BE/B-TECH</option>
+				<option>BSC</option>
+				<option>BCA</option>
+				<option>BCOM</option>
+				<option>MBA</option>
+				<option>DIPLOM</option>
+				
+			</select>
+			</TD>
+		</tr>
+		<tr>
+			<th align="left">SELECT YOUR BRANCH</th>
+			<TD>
+			<select>
+				
+				<option>select your  branch</option>
+				<option>MECH</option>
+				<option>IT</option>
+				<option>ENTC</option>
+				<option>CIVIL</option>
+				<option>CSE</option>
+				<option>ELECTRICAL</option>
+				<option>CHEMICAL</option>
+				
+			</select>
+			</TD>
+		</tr>
+		
+		
+		
+		
+		
+		<tr> <th align="left">CHOOSE CV</th>
+			<td>
+				<input type="FILE" name="CVname">
+				
+				
+			</td>
+		</tr>
+		
+		
+		<tr> <th align="left">ARE YOU READY TO RELOCATE</th>
+			<td>
+				<input type="RADIO" name="Rname">YES
+				<input type="RADIO" name="Rname">NO
+				
+			</td>
+		</tr>
+		
+		<tr> <th></th>
+			<td>
+				<input type="submit"value="submit"name="sname">
+				
+				<input type="RESET"value="RESET"name="sname"color="red">
+			</td>
+		</tr>
+		
+		
+		
+		
+		</table>
+		
+		
+
+
+	
+
+</fieldset>
+</form>
+
+
+
+
+
+
+
+<body>
+
+
+
+
+
+
+
+</html>
+////////////////////////////////////////////////////////////CSS///////////////////////////////////////////////////////////////
+1:
+
+<html>
+<head>
+<style>
+body{background-color:powderblue}
+h1{background-color:blue;color:red;text-align:center}
+p{background-color:green}
+</style>
+</head>
+<body>
+<h1>We are Learning CSS</h1>
+<p>This is what we looking for...</p>
+</body>
+
+
+
+
+
+
+</html>
+...........................................
+
+2:
+<html>
+<head>
+<style>
+body{background-color:powderblue}
+h1,h2,h3,h4{background-color:blue;color:red;text-align:center}
+p{background-color:green}
+</style>
+</head>
+<body>
+<h1>We are Learning CSS</h1>
+<h2>We are Learning CSS</h2>
+<h3>We are Learning CSS</h3>
+<h4>We are Learning CSS</h4>
+<p>This is what we looking for...</p>
+</body>
+
+</html>
+
+......................................
+3:
+
+<html>
+<head>
+<style>
+body{background-color:powderblue}
+h1,h2,h3,h4{background-color:blue;color:red;text-align:center}
+p{background-color:green}
+</style>
+</head>
+<body>
+<h1>We are Learning CSS</h1>
+
+<p>This is what we looking for...</p>
+<p>This is what we looking for...</p>
+<p>This is what we looking for...</p>
+<p>This is what we looking for...</p>
+<p>This is what we looking for...</p>
+</body>
+
+</html
+.................................
+4:
+<html>
+<head>
+<style>
+body{background-color:powderblue}
+h1,h2,h3,h4{background-color:blue;color:red;text-align:center}
+p.a{background-color:green}
+p.b{background-color:blue}
+p.c{background-color:pink}
+p.d{background-color:red}
+p.e{background-color:green}
+</style>
+</head>
+<body>
+<h1>We are Learning CSS</h1>
+
+<p class="a">This is what we looking for...</p>
+<p class="b">This is what we looking for...</p>
+<p class="c">This is what we looking for...</p>
+<p class="d">This is what we looking for...</p>
+<p class="e">This is what we looking for...</p>
+</body>
+
+</html>
+.....................
+5:
+<html>
+<head>
+<style>
+body{background-color:powderblue}
+h1,h2,h3,h4{background-color:blue;color:red;text-align:center}
+p#a{background-color:green}
+p#b{background-color:blue}
+p#c{background-color:pink}
+p#d{background-color:red}
+p#e{background-color:green}
+</style>
+</head>
+<body>
+<h1>We are Learning CSS</h1>
+
+<p id="a">This is what we looking for...</p>
+<p id="b">This is what we looking for...</p>
+<p id="c">This is what we looking for...</p>
+<p id="d">This is what we looking for...</p>
+<p id="e">This is what we looking for...</p>
+</body>
+
+</html>
+..............
+6
+<html>
+<head>
+<link rel="stylesheet" href="ex.css">
+</head>
+<body>
+<h1>We are Learning CSS</h1>
+
+<p id="a">This is what we looking for...</p>
+<p id="b">This is what we looking for...</p>
+<p id="c">This is what we looking for...</p>
+<p id="d">This is what we looking for...</p>
+<p id="e">This is what we looking for...</p>
+</body>
+
+</html>
+
+
+================================
+body{background-color:powderblue}
+h1,h2,h3,h4{background-color:blue;color:red;text-align:center}
+p#a{background-color:green}
+p#b{background-color:blue}
+p#c{background-color:pink}
+p#d{background-color:red}
+p#e{background-color:gr
+.........
+7:inline css
+
+<html>
+
+<body style="background-color:powderblue">
+<h1 style="background-color:blue;color:red;text-align:center">We are Learning CSS</h1>
+
+
+</body>
+
+</html>
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+            [[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[JAVASCRIPT]]]]]]]]]]]]]]]]]]]]]
+
+1:
+<html>
+<head>
+
+</head>
+
+<body>
+<script>
+document.write("Hello Everyone..");
+</script>
+</body>
+
+
+</html>
+.....................
+2:
+<html>
+<head>
+
+</head>
+
+<body>
+<script>
+document.write("Hello Everyone..<br>");
+document.write("how are you??");
+</script>
+</body>
+
+
+</html>
+.........................
+3:
+<html>
+<head>
+
+</head>
+
+<body>
+<script>
+document.write("Hello Everyone..");
+document.write("<br>");
+document.write("how are you??");
+</script>
+</body>
+
+
+</html>
+..................
+4:
+<html>
+<head>
+
+</head>
+
+<body>
+<script>
+document.write("<b>Hello Everyone..</b>");
+document.write("<br>");
+document.write("how are you??");
+</script>
+</body>
+
+
+</html>
+.....................
+5:
+<html>
+<head>
+
+</head>
+
+<body>
+<script>
+var x=10;
+document.write(x);
+
+</script>
+</body>
+
+
+</html>
+..........................
+6:
+<html>
+<head>
+
+</head>
+
+<body>
+<script>
+var x=10;
+document.write("The value of x is:"+x);
+
+</script>
+</body>
+
+
+</html>
+...............
+7:
+<html>
+<head>
+
+</head>
+
+<body>
+<script>
+var x=10;
+var y=20;
+var z=x+y;
+document.write("sum is:"+z);
+
+</script>
+</body>
+
+
+</html>
+.....................
+8:
+<html>
+<head>
+
+</head>
+
+<body>
+<script>
+var x=10;
+var y=20;
+
+if(x<y)
+{
+document.write("x is less than y..");
+}
+else
+{
+document.write("x is not less than y..");
+}
+
+
+</script>
+</body>
+
+
+</html>
+..................
+9:
+<html>
+<head>
+
+</head>
+
+<body>
+<script>
+var x=1;
+while(x<=10)
+{
+  document.write(x+"<br>");
+  x++;
+}
+
+
+</script>
+</body>
+
+
+</html>
+..................
+10:
+<html>
+<head>
+
+</head>
+
+<body>
+<script>
+var x=1;
+do
+{
+  document.write(x+"<br>");
+  x++;
+}
+while(x<=10);
+
+
+</script>
+</body>
+
+
+</html>
+..................
+11:
+<html>
+<head>
+<script>
+function hello(x,y)
+{
+  var z=x+y;
+  document.write("sum is:"+z);
+}
+</script>
+</head>
+
+<body>
+<script>
+
+hello(10,20);
+
+</script>
+</body>
+
+
+</ht
+.......
+12:
+
+<html>
+<head>
+<script>
+function hello(x,y)
+{
+  var z=x+y;
+  document.write("sum is:"+z+"<br>");
+}
+</script>
+</head>
+
+<body>
+<script>
+
+hello(101,20);
+hello(102,20);
+hello(103,20);
+hello(104,20);
+
+</script>
+</body>
+
+
+</html>
+.....................
+13:
+<html>
+<head>
+<script>
+function hello1(x,y)
+{
+  return x+y;
+ 
+}
+function hello2(x,y)
+{
+  var z=x-y;
+  document.write("subs is:"+z+"<br>");
+}
+function hello3(x,y)
+{
+  var z=x*y;
+  document.write("Multi is:"+z+"<br>");
+}
+</script>
+</head>
+
+<body>
+<script>
+
+ document.write("sum is:"+hello1(101,20)+"<br>");
+hello2(102,20);
+hello3(103,20);
+
+
+</script>
+</body>
+..............................................
+14:
+
+
+
+14 Attachments
+<html>
+<head>
+<script>
+function hello1(x,y)
+{
+  var z=x+y;
+  document.write("sum is:"+z+"<br>");
+}
+function hello2(x,y)
+{
+  var z=x-y;
+  document.write("subs is:"+z+"<br>");
+}
+function hello3(x,y)
+{
+  var z=x*y;
+  document.write("Multi is:"+z+"<br>");
+}
+</script>
+</head>
+
+<body>
+<script>
+
+hello1(101,20);
+hello2(102,20);
+hello3(103,20);
+
+
+</script>
+</body>
+
+
+</html>
+
+
+.....................validation.................................
+1:
+
+<html>
+<head>
+<script>
+function hello()
+{
+  var a=document.f1.mn.value;
+  if(a=="")
+  {
+    alert("Please Enter Contact Number..");
+	return false;
+  }
+  if(isNaN(a))
+  {
+    alert("Enter only numeric value");
+	return false;
+  }
+  if(a.length<10)
+  {
+    alert("Contact number must be of 10 digits");
+	return false;
+  }
+  if(a.length>10)
+  {
+    alert("Contact number must be of 10 digits");
+	return false;
+  }
+  if((a.charAt(0)!=9) && (a.charAt(0)!=8) && (a.charAt(0)!=7))
+  {
+    alert("Mob number must be start with 9,8 or 7");
+	return false;
+  }
+}
+</script>
+</head>
+
+<body>
+<form name="f1"action="Form2.html"method="post"onsubmit="return hello()">
+Contact Number:<input type="text"name="mn"><br><br>
+<input type="submit"name="submit">
+</form>
+</body>
+
+</html>
+
+....................................
+2:
+
+<html>
+<head>
+<script>
+function hello()
+{
+  var a=document.f1.user.value;
+  if(a=="")
+  {
+    alert("Please Enter user Number..");
+	return false;
+  }
+  if(!isNaN(a))
+  {
+    alert("Enter only alphabet value");
+	return false;
+  }
+  if((a.length<4) || (a.length>10))
+  {
+    alert("Char must be in between 4 and 10");
+	return false;
+  }
+  
+ 
+}
+</script>
+
+</head>
+
+<body>
+<form name="f1"action="Form2.html"method="post"onsubmit="return hello()">
+User Name:<input type="text"name="user"><br><br>
+<input type="submit"name="submit">
+</form>
+</body>
+
+</html>
+
+
+......................
+
+3:
+
+
+
+<html>
+<head>
+<script>
+function hello()
+{
+  var a=document.f1.pass1.value;
+  var b=document.f1.pass2.value;
+  if(a=="")
+  {
+    alert("Please Enter password");
+	return false;
+  }
+ 
+  if((a.length<4) || (a.length>10))
+  {
+    alert("Char must be in between 4 and 10");
+	return false;
+  }
+   if(a!=b)
+  {
+    alert("Password doesn't matched");
+	return false;
+  }
+  
+  
+ 
+}
+</script>
+</head>
+
+<body>
+<form name="f1"action="Form2.html"method="post"onsubmit="return hello()">
+Password:<input type="password"name="pass1"><br><br>
+Confirm Password:<input type="password"name="pass2"><br><br>
+<input type="submit"name="submit">
+</form>
+</body>
+
+</html>
+..........................
+4:
+
+<html>
+<head>
+
+</head>
+
+<body>
+<form>
+I Agree:<input type="radio"id="myRadio">
+</form>
+
+<p id="demo">
+
+</p>
+
+<button onclick="hello()">Click Me</button>
+
+<script>
+function hello()
+{
+   var x=document.getElementById("myRadio").checked;
+   document.getElementById("demo").innerHTML=x;
+}
+</script>
+</body>
+
+</html>
+
+
+........................
+5:
+
+<html>
+<head>
+
+</head>
+
+<body>
+<form>
+I Agree:<input type="radio"id="myRadio">
+</form>
+
+<p id="demo">
+
+</p>
+
+<button onclick="hello()">Click Me</button>
+
+<script>
+function hello()
+{
+   var x=document.getElementById("myRadio").checked;
+   document.getElementById("demo").innerHTML=x;
+}
+</script>
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
